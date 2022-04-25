@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)-->
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Python&logoColor=red)]![python](https://user-images.githubusercontent.com/83147205/165160459-df737d08-a274-4b3e-a9f1-80e9ca193126.svg)
+[![Python](https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Python&logoColor=#3776AB)](github.com/Joowon0220/TODO-List)
