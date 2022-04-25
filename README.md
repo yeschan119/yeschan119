@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)-->
-[![Python](https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Python&logoColor=#3776AB)](github.com/Joowon0220/TODO-List)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeschan119&show_icons=true&theme=radical)
