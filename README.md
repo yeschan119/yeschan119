@@ -14,15 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=3776AB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![C](https://img.shields.io/badge/-00AEF0?style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=Git&logoColor=black)
-![Amazone AWS](https://img.shields.io/badge/Amzzone AWS-232F3E?style=for-the-badge&logo=Amazone AWS&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AWS&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-4285F4?style=for-the-badge&logo=Docker&logoColor=white)
+
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeschan119&show_icons=true&theme=radical)
