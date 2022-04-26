@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-white?style=plastic&logo=Python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/MySQL-black?style=plastic&logo=MySQL&logoColor=4479A1"/>
 <img src="https://img.shields.io/badge/Oracle-000000?style=plastic&logo=Oracle&logoColor=F80000"/>
-<img src="https://img.shields.io/badge/C-000000?style=plastic&logo=C&logoColor=00AEF0"/>
+<img src="https://img.shields.io/badge/-000000?style=plastic&logo=C&logoColor=00AEF0"/>
 <img src="https://img.shields.io/badge/C++-000000?style=plastic&logo=C++&logoColor=00C4CC"/>
 <br/>
 
