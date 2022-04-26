@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=3776AB)
 ![C](https://img.shields.io/badge/-00AEF0?style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
+![Java](https://img.shields.io/badge/Java-7A1FA2?style=for-the-badge&logo=Java&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
