@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Python-2B2728?style=plastic&logo=Python&logoColor=3776AB"/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeschan119&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeschan119)](https://github.com/anuraghazra/github-readme-stats)
