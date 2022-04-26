@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
 <img src="https://img.shields.io/badge/Python-white?style=plastic&logo=Python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/MySQL-4169E1?style=plastic&logo=MySQL&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/MySQL-black?style=plastic&logo=MySQL&logoColor=4479A1"/>
 <img src="https://img.shields.io/badge/Oracle-000000?style=plastic&logo=Oracle&logoColor=F80000"/>
+<img src="https://img.shields.io/badge/C-000000?style=plastic&logo=C&logoColor=00AEF0"/>
+<img src="https://img.shields.io/badge/C++-000000?style=plastic&logo=C++&logoColor=00C4CC"/>
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeschan119&show_icons=true&theme=radical)
