@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
-[![Python]<img src="https://img.shields.io/badge/Python-white?style=plastic&logo=Python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Python-white?style=plastic&logo=Python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/MySQL-4169E1?style=plastic&logo=MySQL&logoColor=4479A1"/>
 <img src="https://img.shields.io/badge/Oracle-000000?style=plastic&logo=Oracle&logoColor=F80000"/>
 <br/>
