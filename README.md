@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
-![Python](https://img.shields.io/badge/Python-white?style=plastic&logo=Python&logoColor=3776AB)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=plastic&logo=MySQL&logoColor=4479A1)
-![Oracle](https://img.shields.io/badge/Oracle-000000?style=plastic&logo=Oracle&logoColor=F80000)
-![C](https://img.shields.io/badge/-000000?style=plastic&logo=C&logoColor=00AEF0)
-![C++](https://img.shields.io/badge/C++-000000?style=plastic&logo=C++&logoColor=00599C)
+![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=3776AB)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL&logoColor=4479A1)
+![Oracle](https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=Oracle&logoColor=F80000)
+![C](https://img.shields.io/badge/-000000?style=for-the-badge&logo=C&logoColor=00AEF0)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C++&logoColor=00599C)
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeschan119&show_icons=true&theme=radical)
