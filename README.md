@@ -14,13 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 <img src="https://img.shields.io/badge/Python-white?style=plastic&logo=Python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/MySQL-4169E1?style=plastic&logo=MySQL&logoColor=4479A1"/>
 <img src="https://img.shields.io/badge/Oracle-000000?style=plastic&logo=Oracle&logoColor=F80000"/>
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeschan119&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeschan119)](https://github.com/anuraghazra/github-readme-stats)
