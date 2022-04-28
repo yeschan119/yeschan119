@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=Git&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AWS&logoColor=black)
+![aws](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=aws&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-4285F4?style=for-the-badge&logo=Docker&logoColor=white)
 
 <br/>
