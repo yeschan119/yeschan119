@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 wave, egg, shark, slice, rect, soft, rounded, sylinder, waving, transparent
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeschan119&show_icons=true&theme=radical)
 -->
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
@@ -30,7 +31,7 @@ wave, egg, shark, slice, rect, soft, rounded, sylinder, waving, transparent
 ![Docker](https://img.shields.io/badge/Docker-4285F4?style=for-the-badge&logo=Docker&logoColor=white)
 
 <br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeschan119)](https://github.com/yeschan119/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeschan119&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeschan119&theme=radical)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeschan119)](https://github.com/anuraghazra/github-readme-stats) -->
