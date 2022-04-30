@@ -16,6 +16,15 @@ Here are some ideas to get you started:
 -->
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=egg&color=auto&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=shark&color=auto&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=sliceg&color=auto&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=sylinder&color=auto&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=150&section=footer)
+
 
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=3776AB)
 ![C](https://img.shields.io/badge/-00AEF0?style=for-the-badge&logo=C&logoColor=white)
