@@ -46,6 +46,7 @@ wave, egg, shark, slice, rect, soft, rounded, sylinder, waving, transparent
 ![aws](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=aws&logoColor=000000)
 ![Docker](https://img.shields.io/badge/Docker-4285F4?style=for-the-badge&logo=Docker&logoColor=white)
 ![MicrosoftSharePoint](https://img.shields.io/badge/MicrosoftSharePoint-4285F4?style=for-the-badge&logo=MicrosoftSharePoint&logoColor=white)
+![PowerApps](https://img.shields.io/badge/PowerApps-4285F4?style=for-the-badge&logo=PowerApps&logoColor=white)
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeschan119&show_icons=true&theme=radical)
