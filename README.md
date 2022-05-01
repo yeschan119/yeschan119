@@ -45,7 +45,7 @@ wave, egg, shark, slice, rect, soft, rounded, sylinder, waving, transparent
 ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=Git&logoColor=black)
 ![AmazonAws](https://img.shields.io/badge/AmazonAws-FF9900?style=for-the-badge&logo=AmazonAws&logoColor=000000)
 ![Docker](https://img.shields.io/badge/Docker-4285F4?style=for-the-badge&logo=Docker&logoColor=white)
-![MicrosoftSharePoint](https://img.shields.io/badge/MicrosoftSharePoint-4285F4?style=for-the-badge&logo=MicrosoftSharePoint&logoColor=white)
+![MicrosoftSharePoint](https://img.shields.io/badge/MicrosoftSharePoint-0078D4?style=for-the-badge&logo=MicrosoftSharePoint&logoColor=white)
 ![PowerApps](https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=PowerApps&logoColor=white)
 ![PowerAutomate](https://img.shields.io/badge/PowerAutomate-0066FF?style=for-the-badge&logo=PowerAutomate&logoColor=white)
 <br/>
