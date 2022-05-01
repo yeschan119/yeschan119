@@ -1,3 +1,5 @@
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
 ### self introduction
   + welcome to my page😄
   + I'm Eungchan, Backend developer, from Korea, currently living in Seoul, South Korea.
@@ -16,7 +18,7 @@
   + data scientist.
   + I'm interested in data mining and data engineering.
     + I have experienced various data mining projects you can find in my Github.
-### Tech Stack
+
 <!--
 **yeschan119/yeschan119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,9 +34,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 wave, egg, shark, slice, rect, soft, rounded, sylinder, waving, transparent
 -->
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
-
+### Tech Stack
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=3776AB)
 ![C](https://img.shields.io/badge/-00AEF0?style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
