@@ -1,8 +1,5 @@
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Eungchan Kang" />
-</h1>
 ### self introduction
   + welcome to my page😄
   + I'm Eungchan, Backend developer, from Korea, currently living in Seoul, South Korea.
