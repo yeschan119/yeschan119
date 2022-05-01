@@ -1,6 +1,6 @@
 ### self introduction
-  + welcome to my place😄
-  + I'm Eungchan, from South Korea.
+  + welcome to my page😄
+  + I'm Eungchan, Backend developer, from Korea, currently living in Seoul, South Korea.
   + I studied Information System and Software Engineering.
   + I have two experiencies for internship.
     + Build an ERP system for Daewoong Pharmacy corporation.
@@ -14,6 +14,8 @@
   + data scientist.
   + I'm interested in data mining and data engineering.
     + I have experienced various data mining projects you can find in my Github.
+### My website
+  + https://www.yeschan119.com
 ### Tech Stack
 <!--
 **yeschan119/yeschan119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
