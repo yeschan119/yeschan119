@@ -1,22 +1,24 @@
 ### self introduction
-  + welcome to my place
+  + welcome to my place😄
   + I'm Eungchan, from South Korea.
   + I studied Information System and Software Engineering.
   + I have two experiencies for internship.
     + Build an ERP system for Daewoong Pharmacy corporation.
     + Carry out AI vision projects(object detection, image segmentation) for TestWorks co.
-  + I'm interested in data mining and data engineering.
-  + I'm currently work for DBMS company, TmaxData.
-    + I design the SQL compiler in the DBMS engine.
-    + In details, I'm in the transformer/optimizer module.
+  + I'm currently working for DBMS company, TmaxData.
+    + I design the SQL compiler for DB engine.
+    + In details, I'm currently working on the transformer/optimizer module.
+  + 📫 How to reach me: yeschan119@naver.com, yeschan119@gmail.com
 ### A long-term plan
   + data scientist.
+  + I'm interested in data mining and data engineering.
+    + I have experienced various data mining projects you can find in my Github.
 ### Tech Stack
 <!--
 **yeschan119/yeschan119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -26,8 +28,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 wave, egg, shark, slice, rect, soft, rounded, sylinder, waving, transparent
-
-
+-->
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
 
