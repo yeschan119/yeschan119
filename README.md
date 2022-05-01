@@ -37,7 +37,7 @@ wave, egg, shark, slice, rect, soft, rounded, sylinder, waving, transparent
 
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=3776AB)
 ![C](https://img.shields.io/badge/-00AEF0?style=for-the-badge&logo=C&logoColor=white)
-![Cpp](https://img.shields.io/badge/Cpp-00599C?style=for-the-badge&logo=Cpp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-7A1FA2?style=for-the-badge&logo=Java&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
@@ -45,7 +45,7 @@ wave, egg, shark, slice, rect, soft, rounded, sylinder, waving, transparent
 ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=Git&logoColor=black)
 ![aws](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=aws&logoColor=000000)
 ![Docker](https://img.shields.io/badge/Docker-4285F4?style=for-the-badge&logo=Docker&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-4285F4?style=for-the-badge&logo=SharePoint&logoColor=white)
+![MicrosoftSharePoint](https://img.shields.io/badge/MicrosoftSharePoint-4285F4?style=for-the-badge&logo=MicrosoftSharePoint&logoColor=white)
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeschan119&show_icons=true&theme=radical)
