@@ -1,5 +1,14 @@
+### self introduction
+  + welcome to my place
+  + I'm Eungchan, from South Korea.
+  + I studied Information System and Software Engineering.
+  + I have two experiencies for internship.
+    + Build ERP system for Daewoong Pharmacy corporation.
+    + carry out an AI vision project for TestWorks co.
+  + Now I work for DBMS company, TmaxData.
+    + I design the SQL compiler.
+    + In details, I'm in the transformer/optimizer module.
 ### Tech Stack
-
 <!--
 **yeschan119/yeschan119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
