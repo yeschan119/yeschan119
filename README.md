@@ -6,6 +6,7 @@
     + Build an ERP system for Daewoong Pharmacy corporation.
     + Carry out AI vision projects(object detection, image segmentation) for TestWorks co.
   + I'm currently working for DBMS company, TmaxData.
+    + The DBMS is Tibero.
     + I design the SQL compiler for DB engine.
     + In details, I'm currently working on the transformer/optimizer module.
   + 📫 How to reach me: yeschan119@naver.com, yeschan119@gmail.com
