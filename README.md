@@ -10,12 +10,12 @@
     + I design the SQL compiler for DB engine.
     + In details, I'm currently working on the transformer/optimizer module.
   + 📫 How to reach me: yeschan119@naver.com, yeschan119@gmail.com
+### My website
+  + https://www.yeschan119.com
 ### A long-term plan
   + data scientist.
   + I'm interested in data mining and data engineering.
     + I have experienced various data mining projects you can find in my Github.
-### My website
-  + https://www.yeschan119.com
 ### Tech Stack
 <!--
 **yeschan119/yeschan119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -45,7 +45,7 @@ wave, egg, shark, slice, rect, soft, rounded, sylinder, waving, transparent
 ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=Git&logoColor=black)
 ![aws](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=aws&logoColor=000000)
 ![Docker](https://img.shields.io/badge/Docker-4285F4?style=for-the-badge&logo=Docker&logoColor=white)
-
+![Sharepoint](https://img.shields.io/badge/Sharepoint-4285F4?style=for-the-badge&logo=Sharepoint&logoColor=white)
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeschan119&show_icons=true&theme=radical)
