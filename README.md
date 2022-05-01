@@ -6,9 +6,9 @@
   + I'm Eungchan, Backend developer, from Korea, currently living in Seoul, South Korea.
   + I studied Information System and Software Engineering.
   + I have two experiencies for internship.
-    + Build an ERP system for Daewoong Pharmacy corporation.
-    + Carry out AI vision projects(object detection, image segmentation) for TestWorks co.
-  + I'm currently working for DBMS company, TmaxData.
+    + Build an ERP system for Daewoong Pharmacy corporation(for two months).
+    + Carry out AI vision projects(object detection, image segmentation) for TestWorks co(for four months).
+  + I'm currently working for DBMS company, TmaxData(2022.01 ~ ).
     + The DBMS is Tibero.
     + I design the SQL compiler for DB engine.
     + In details, I'm currently working on the transformer/optimizer module.
