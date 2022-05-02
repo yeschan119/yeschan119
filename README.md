@@ -1,7 +1,7 @@
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
 
-### self introduction
+### Hello
   + welcome to my page😄
   + I'm Eungchan, Backend developer, from Korea, currently living in Seoul, South Korea.
   + I studied Information System and Software Engineering.
