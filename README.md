@@ -8,7 +8,7 @@
   + I have two experiencies for internship.
     + Build an ERP system for Daewoong Pharmacy corporation(for two months).
     + Carry out AI vision projects(object detection, image segmentation) for TestWorks co(for four months).
-  + I'm currently working for DBMS company, TmaxData(2022.01 ~ ).
+  + I'm currently working for DBMS Lab, TmaxData(2022.01 ~ ).
     + The DBMS is Tibero.
     + I design the SQL compiler for DB engine.
     + In details, I'm currently working on the transformer/optimizer module.
