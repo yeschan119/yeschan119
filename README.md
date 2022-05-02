@@ -4,7 +4,7 @@
 ### Hello
   + welcome to my page😄
   + I'm Eungchan, Backend developer, from Korea, currently living in Seoul, South Korea.
-  + I studied Information System and Software Engineering.
+  + I studied Information System and Computer Software Engineering(CSE).
   + I have two experiencies for internship.
     + Build an ERP system for Daewoong Pharmacy corporation(for two months).
     + Carry out AI vision projects(object detection, image segmentation) for TestWorks co(for four months).
