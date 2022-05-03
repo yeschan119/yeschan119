@@ -4,20 +4,22 @@
 ### Hello
   + welcome to my page😄
   + I'm Eungchan, Backend developer, from Korea, currently living in Seoul, South Korea.
-  + I studied Information System and Computer Software Engineering(CSE).
-  + I have two experiencies for internship.
-    + Build an ERP system for Daewoong Pharmacy corporation(for two months).
-    + Carry out AI vision projects(object detection, image segmentation) for TestWorks co(for four months).
-  + I'm currently working for DBMS Lab, TmaxData(2022.01 ~ ).
-    + The DBMS is Tibero.
-    + I design the SQL compiler for DB engine.
-    + In details, I'm currently working on the transformer/optimizer module.
+  + 2022: Bachelor. Information System, Computer Software Engineering(CSE), UNIV of HANYANG, Seoul, Korea.
+  + 2021.07.01 ~ 08.27: Internship, Daewoong Pharmacy Co, Seoul, Korea.
+    + Build an RPA system.
+  + 2021.09.01 ~ 2021.12: Internship, Testworks Co, Seoul, Korea.
+    + Join in AI vision projects(object detection, image segmentation).
+  + 2022.01 ~ : Researcher, DBMS(Tibero) Lab, TmaxData, Seoul, Korea.
+    + SQL compiler design.
+    + In details, transformer/optimizer module.
+
   + 📫 How to reach me: yeschan119@naver.com, yeschan119@gmail.com
+
 ### My website
   + https://www.yeschan119.com
+
 ### A long-term plan
-  + data scientist.
-  + I'm interested in data mining and data engineering.
+  + I'm interested in data engineering and data mining.
     + I have experienced various data mining projects you can find in my Github.
 
 <!--
