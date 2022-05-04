@@ -21,7 +21,6 @@
 ### A long-term plan
   + I'm interested in data engineering and data mining.
     + I have experienced various data mining projects you can find in my Github.
-
 <!--
 **yeschan119/yeschan119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -52,7 +51,6 @@ wave, egg, shark, slice, rect, soft, rounded, sylinder, waving, transparent
 ![MicrosoftSharePoint](https://img.shields.io/badge/MicrosoftSharePoint-0078D4?style=for-the-badge&logo=MicrosoftSharePoint&logoColor=white)
 ![PowerApps](https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=PowerApps&logoColor=white)
 ![PowerAutomate](https://img.shields.io/badge/PowerAutomate-0066FF?style=for-the-badge&logo=PowerAutomate&logoColor=white)
-<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeschan119&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeschan119&theme=radical)
