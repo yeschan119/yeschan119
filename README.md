@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 wave, egg, shark, slice, rect, soft, rounded, sylinder, waving, transparent
 -->
+
 ### Tech Stack
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=3776AB)
 ![C](https://img.shields.io/badge/-00AEF0?style=for-the-badge&logo=C&logoColor=white)
