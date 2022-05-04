@@ -18,9 +18,6 @@
 ### My website
   + https://www.yeschan119.com
 
-### A long-term plan
-  + I'm interested in data engineering and data mining.
-    + I have experienced various data mining projects you can find in my Github.
 <!--
 **yeschan119/yeschan119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,8 +31,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-wave, egg, shark, slice, rect, soft, rounded, sylinder, waving, transparent
--->
+wave, egg, shark, slice, rect, soft, rounded, sylinder, waving, transparent -->
 
 ### Tech Stack
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=3776AB)
