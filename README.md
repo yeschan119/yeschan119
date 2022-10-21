@@ -11,7 +11,7 @@
     + Join in AI vision projects(object detection, image segmentation).
   + 2022.01 ~ : Researcher, DBMS(Tibero) Lab, TmaxData, Seoul, Korea.
     + SQL compiler design.
-    + In details, transformer/optimizer module.
+    + In details, Parser/Transformer/Optimizer module.
 
   + 📫 How to reach me: yeschan119@naver.com, yeschan119@gmail.com
 
