@@ -10,8 +10,9 @@
   + 2021.09.01 ~ 2021.12: Researcher, Testworks Co, Seoul, Korea.
     + AI vision research(object detection, image segmentation).
   + 2022.01 ~ : Researcher, DBMS(Tibero) Lab, TmaxData, Seoul, Korea.
-    + SQL compiler design.
-    + In details, Parser/Transformer/Optimizer module.
+    + SQL compiler design & develop
+      + Parser/Transformer/Optimizer
+    + SQL tuning support
 
   + 📫 How to reach me: yeschan119@naver.com, yeschan119@gmail.com
 
