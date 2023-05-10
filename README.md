@@ -8,7 +8,7 @@
   + 2021.07.01 ~ 08.27: Internship, Daewoong Pharmacy Co, Seoul, Korea.
     + Build a RPA system.
   + 2021.09.01 ~ 2021.12: Researcher, Testworks Co, Seoul, Korea.
-    + Join in AI vision projects(object detection, image segmentation).
+    + AI vision research(object detection, image segmentation).
   + 2022.01 ~ : Researcher, DBMS(Tibero) Lab, TmaxData, Seoul, Korea.
     + SQL compiler design.
     + In details, Parser/Transformer/Optimizer module.
