@@ -12,7 +12,8 @@
   + 2022.01 ~ : Researcher, DBMS(Tibero) Lab, TmaxData, Seoul, Korea.
     + SQL compiler design & develop
       + Parser/Transformer/Optimizer
-    + SQL tuning support
+    + DB Architecture
+      + SQL tuning support
 
   + 📫 How to reach me: yeschan119@naver.com, yeschan119@gmail.com
 
