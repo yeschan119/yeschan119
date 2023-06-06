@@ -19,7 +19,7 @@
 ------------------------------------------------------------------------------------------------------------
 ### My website
   + https://www.yeschan119.com
-
+------------------------------------------------------------------------------------------------------------
 <!--
 **yeschan119/yeschan119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 wave, egg, shark, slice, rect, soft, rounded, sylinder, waving, transparent -->
-
+------------------------------------------------------------------------------------------------------------
 ### Tech Stack
 #### Language
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=3776AB)
@@ -54,8 +54,8 @@ wave, egg, shark, slice, rect, soft, rounded, sylinder, waving, transparent -->
 ![MicrosoftSharePoint](https://img.shields.io/badge/MicrosoftSharePoint-0078D4?style=for-the-badge&logo=MicrosoftSharePoint&logoColor=white)
 ![PowerApps](https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=PowerApps&logoColor=white)
 ![PowerAutomate](https://img.shields.io/badge/PowerAutomate-0066FF?style=for-the-badge&logo=PowerAutomate&logoColor=white)
-<br/>
-
+------------------------------------------------------------------------------------------------------------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeschan119&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeschan119&theme=radical)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeschan119)](https://github.com/anuraghazra/github-readme-stats) -->
+------------------------------------------------------------------------------------------------------------
