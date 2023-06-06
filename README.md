@@ -36,20 +36,24 @@ Here are some ideas to get you started:
 wave, egg, shark, slice, rect, soft, rounded, sylinder, waving, transparent -->
 
 ### Tech Stack
-![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=3776AB)
-![C](https://img.shields.io/badge/-00AEF0?style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
-![Java](https://img.shields.io/badge/Java-7A1FA2?style=for-the-badge&logo=Java&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-![Oracle](https://img.shields.io/badge/Tibero-0066FF?style=for-the-badge&logo=Oracle&logoColor=black)
-![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=Git&logoColor=black)
-![AmazonAws](https://img.shields.io/badge/AmazonAws-FF9900?style=for-the-badge&logo=AmazonAws&logoColor=000000)
-![Docker](https://img.shields.io/badge/Docker-4285F4?style=for-the-badge&logo=Docker&logoColor=white)
-![MicrosoftSharePoint](https://img.shields.io/badge/MicrosoftSharePoint-0078D4?style=for-the-badge&logo=MicrosoftSharePoint&logoColor=white)
-![PowerApps](https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=PowerApps&logoColor=white)
-![PowerAutomate](https://img.shields.io/badge/PowerAutomate-0066FF?style=for-the-badge&logo=PowerAutomate&logoColor=white)
+#### $${\color{red}Language}$$
+![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=3776AB)<br/>
+![C](https://img.shields.io/badge/-00AEF0?style=for-the-badge&logo=C&logoColor=white)<br/>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)<br/>
+![Java](https://img.shields.io/badge/Java-7A1FA2?style=for-the-badge&logo=Java&logoColor=white)<br/>
+#### $${\color{red}Framework | Platform}$$
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoColor=white)<br/>
+![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=Git&logoColor=black)<br/>
+![AmazonAws](https://img.shields.io/badge/AmazonAws-FF9900?style=for-the-badge&logo=AmazonAws&logoColor=000000)<br/>
+![Docker](https://img.shields.io/badge/Docker-4285F4?style=for-the-badge&logo=Docker&logoColor=white)<br/>
+#### $${\color{red}Server & Database}$$
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)<br/>
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)<br/>
+![Tibero](https://img.shields.io/badge/Tibero-0066FF?style=for-the-badge&logo=Oracle&logoColor=black)<br/>
+#### $${\color{red}Others}$$
+![MicrosoftSharePoint](https://img.shields.io/badge/MicrosoftSharePoint-0078D4?style=for-the-badge&logo=MicrosoftSharePoint&logoColor=white)<br/>
+![PowerApps](https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=PowerApps&logoColor=white)<br/>
+![PowerAutomate](https://img.shields.io/badge/PowerAutomate-0066FF?style=for-the-badge&logo=PowerAutomate&logoColor=white)<br/>
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeschan119&show_icons=true&theme=radical)
