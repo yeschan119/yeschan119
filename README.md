@@ -52,7 +52,7 @@ wave, egg, shark, slice, rect, soft, rounded, sylinder, waving, transparent -->
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![Tibero](https://img.shields.io/badge/Tibero-0066FF?style=for-the-badge&logo=Oracle&logoColor=black)
 #### Others
-![Linux](https://img.shields.io/badge/Linux-F80005?style=for-the-badge&logo=Linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=Linux&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-black?style=for-the-badge&logo=Vim&logoColor=white)
 ![MicrosoftSharePoint](https://img.shields.io/badge/MicrosoftSharePoint-0078D4?style=for-the-badge&logo=MicrosoftSharePoint&logoColor=white)
 ![PowerApps](https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=PowerApps&logoColor=white)
