@@ -43,7 +43,7 @@ wave, egg, shark, slice, rect, soft, rounded, sylinder, waving, transparent -->
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-![Oracle](https://img.shields.io/badge/Tibero-0066FF?style=for-the-badge&logo=Oracle&logoColor=black)
+![Oracle](https://img.shields.io/badge/Tibero-0066FF?style=for-the-badge&logo=Tibero&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=Git&logoColor=black)
 ![AmazonAws](https://img.shields.io/badge/AmazonAws-FF9900?style=for-the-badge&logo=AmazonAws&logoColor=000000)
 ![Docker](https://img.shields.io/badge/Docker-4285F4?style=for-the-badge&logo=Docker&logoColor=white)
