@@ -5,7 +5,9 @@
   + welcome to my page😄
   + I'm Eungchan, Backend developer, from Korea, currently living in Seoul, South Korea.
   + 2021: Bachelor. Information System & Computer Software Engineering(CSE), UNIV of HANYANG, Seoul, Korea.
-  + 2021.07.01 ~ 08.27: Internship, Daewoong Pharmacy Co, Seoul, Korea.
+  + 2021.04 ~ 06: Internship, Daewoong Pharmacy Co, Seoul, Korea.
+    + Build an email management system.
+  + 2021.07.01 ~ 08.27: Internship, Next Kernel Inc, Dallas, TX, 75229, US.
     + Build a RPA system.
   + 2021.09.01 ~ 2021.12: Researcher, Testworks Co, Seoul, Korea.
     + AI vision research(object detection, image segmentation).
