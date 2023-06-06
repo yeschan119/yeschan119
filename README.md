@@ -1,6 +1,6 @@
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
-
+------------------------------------------------------------------------------------------------------------
 ### Hello
   + welcome to my page😄
   + I'm Eungchan, Backend developer, from Korea, currently living in Seoul, South Korea.
@@ -16,7 +16,7 @@
       + SQL tuning support
 
   + 📫 How to reach me: yeschan119@naver.com, yeschan119@gmail.com
-
+------------------------------------------------------------------------------------------------------------
 ### My website
   + https://www.yeschan119.com
 
