@@ -12,7 +12,7 @@
   + 2021.09.01 ~ 2021.12: Researcher, Testworks Co, Seoul, Korea.
     + AI vision research(object detection, image segmentation).
   + 2022.01 ~ : Researcher, DBMS(Tibero) Lab, TmaxData, Seoul, Korea.
-    + SQL compiler design & develop
+    + RDBMS Architecture design & develop
       + Parser/Transformer/Optimizer
     + DB Administration
       + SQL tuning support
