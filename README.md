@@ -42,8 +42,8 @@ wave, egg, shark, slice, rect, soft, rounded, sylinder, waving, transparent -->
 ![C](https://img.shields.io/badge/-00AEF0?style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-7A1FA2?style=for-the-badge&logo=Java&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-00AEF0?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-00599C?style=for-the-badge&logo=Dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-00AEF0?style=for-the-badge&logo=Flutter&logoColor=white)
 #### Framework | Platform
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=Git&logoColor=black)
