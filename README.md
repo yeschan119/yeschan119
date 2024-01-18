@@ -3,7 +3,7 @@
 ------------------------------------------------------------------------------------------------------------
 ### Hello
   + welcome to my page😄
-  + I'm Eungchan, Backend developer, from Korea, currently living in Seoul, South Korea.
+  + I'm Eungchan, Full-stack developer, from Korea, currently living in Seoul, South Korea.
   + 2021: Bachelor. Information System & Computer Software Engineering(CSE), UNIV of HANYANG, Seoul, Korea.
   + 2021.04 ~ 06: Internship(remote work), Next Kernel Inc, Dallas, TX, 75229, US.
     + Build an email management system.
