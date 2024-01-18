@@ -56,7 +56,6 @@ wave, egg, shark, slice, rect, soft, rounded, sylinder, waving, transparent -->
 #### Others
 ![Linux](https://img.shields.io/badge/Linux-FF9900?style=for-the-badge&logo=Linux&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-black?style=for-the-badge&logo=Vim&logoColor=white)
-![MicrosoftSharePoint](https://img.shields.io/badge/MicrosoftSharePoint-0078D4?style=for-the-badge&logo=MicrosoftSharePoint&logoColor=white)
 ![PowerApps](https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=PowerApps&logoColor=white)
 ![PowerAutomate](https://img.shields.io/badge/PowerAutomate-0066FF?style=for-the-badge&logo=PowerAutomate&logoColor=white)
 ------------------------------------------------------------------------------------------------------------
