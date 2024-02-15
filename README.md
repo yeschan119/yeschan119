@@ -16,9 +16,7 @@
     + 2022.01 ~ 2024.01: Researcher, DBMS(Tibero) Lab, TmaxData, Seoul, Korea.
       + RDBMS Architecture design & develop
         + Parser/Transformer/Optimizer
-      + DB Administration
-        + DB Architecture support
-        + SQL tuning support
+      + DB Administration & SQL Tunning Support
     + 2024.02 ~ : full-stack software developer, Kokomo24/7, Chicago, Illinois.
       + Backend & Server Develop
       + Web Develop
