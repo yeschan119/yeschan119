@@ -11,11 +11,14 @@
     + Build a RPA system.
   + 2021.09.01 ~ 2021.12: Researcher, Testworks Co, Seoul, Korea.
     + AI vision research(object detection, image segmentation).
-  + 2022.01 ~ : Researcher, DBMS(Tibero) Lab, TmaxData, Seoul, Korea.
+  + 2022.01 ~ 2024.01: Researcher, DBMS(Tibero) Lab, TmaxData, Seoul, Korea.
     + RDBMS Architecture design & develop
       + Parser/Transformer/Optimizer
     + DB Administration
       + SQL tuning support
+  + 2024.02 ~ : full-stack software developer, Kokomo24/7, Chicago, Illinois.
+    + Backend & Server Develop
+    + Web Develop
 
   + 📫 How to reach me: yeschan119@naver.com, yeschan119@gmail.com
 ------------------------------------------------------------------------------------------------------------
