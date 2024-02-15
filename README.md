@@ -17,6 +17,7 @@
       + RDBMS Architecture design & develop
         + Parser/Transformer/Optimizer
       + DB Administration
+        + DB Architecture support
         + SQL tuning support
     + 2024.02 ~ : full-stack software developer, Kokomo24/7, Chicago, Illinois.
       + Backend & Server Develop
