@@ -10,9 +10,9 @@
       + Build an email management system.
     + 2021.07.01 ~ 08.27: Internship, Daewoong Pharmacy Co, Seoul, Korea.
       + Build a RPA system.
+  + Full-Time
     + 2021.09.01 ~ 2021.12: Researcher, Testworks Co, Seoul, Korea.
       + AI vision research(object detection, image segmentation).
-  + Full-Time
     + 2022.01 ~ 2024.01: Researcher, DBMS(Tibero) Lab, TmaxData, Seoul, Korea.
       + RDBMS Architecture design & develop
         + Parser/Transformer/Optimizer
