@@ -5,20 +5,22 @@
   + welcome to my page😄
   + I'm Eungchan, Full-stack developer, from Korea, currently living in Seoul, South Korea.
   + 2021: Bachelor. Information System & Computer Software Engineering(CSE), UNIV of HANYANG, Seoul, Korea.
-  + 2021.04 ~ 06: Internship(remote work), Next Kernel Inc, Dallas, TX, 75229, US.
-    + Build an email management system.
-  + 2021.07.01 ~ 08.27: Internship, Daewoong Pharmacy Co, Seoul, Korea.
-    + Build a RPA system.
-  + 2021.09.01 ~ 2021.12: Researcher, Testworks Co, Seoul, Korea.
-    + AI vision research(object detection, image segmentation).
-  + 2022.01 ~ 2024.01: Researcher, DBMS(Tibero) Lab, TmaxData, Seoul, Korea.
-    + RDBMS Architecture design & develop
-      + Parser/Transformer/Optimizer
-    + DB Administration
-      + SQL tuning support
-  + 2024.02 ~ : full-stack software developer, Kokomo24/7, Chicago, Illinois.
-    + Backend & Server Develop
-    + Web Develop
+  + Intern
+    + 2021.04 ~ 06: Internship(remote work), Next Kernel Inc, Dallas, TX, 75229, US.
+      + Build an email management system.
+    + 2021.07.01 ~ 08.27: Internship, Daewoong Pharmacy Co, Seoul, Korea.
+      + Build a RPA system.
+    + 2021.09.01 ~ 2021.12: Researcher, Testworks Co, Seoul, Korea.
+      + AI vision research(object detection, image segmentation).
+  + Full-Time
+    + 2022.01 ~ 2024.01: Researcher, DBMS(Tibero) Lab, TmaxData, Seoul, Korea.
+      + RDBMS Architecture design & develop
+        + Parser/Transformer/Optimizer
+      + DB Administration
+        + SQL tuning support
+    + 2024.02 ~ : full-stack software developer, Kokomo24/7, Chicago, Illinois.
+      + Backend & Server Develop
+      + Web Develop
 
   + 📫 How to reach me: yeschan119@naver.com, yeschan119@gmail.com
 ------------------------------------------------------------------------------------------------------------
