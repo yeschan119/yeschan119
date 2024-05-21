@@ -18,8 +18,8 @@
         + Parser/Transformer/Optimizer
       + DB Administration & SQL Tunning Support
     + 2024.02 ~ : full-stack software developer, Kokomo24/7, Chicago, Illinois.
-      + Backend & Server Develop
-      + Web Develop
+      + Backend & Server(.Net, MySQL)
+      + Web Develop(Angular)
 
   + 📫 How to reach me: yeschan119@naver.com, yeschan119@gmail.com
 ------------------------------------------------------------------------------------------------------------
