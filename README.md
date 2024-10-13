@@ -43,7 +43,7 @@ wave, egg, shark, slice, rect, soft, rounded, sylinder, waving, transparent -->
 ### Tech Stack
 #### Language
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=3776AB)
-![C#](https://img.shields.io/badge/csharp-#512BD4?style=for-the-badge&logo=c#&logoColor=white)
+![C#](https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=c#&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-1d55b5?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Javascript-FF9900?style=for-the-badge&logo=Javascript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-00599C?style=for-the-badge&logo=Dart&logoColor=white)
