@@ -43,15 +43,17 @@ wave, egg, shark, slice, rect, soft, rounded, sylinder, waving, transparent -->
 ### Tech Stack
 #### Language
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=3776AB)
+![C#](https://img.shields.io/badge/csharp-580be6?style=for-the-badge&logo=c#&logoColor=white)
 ![C](https://img.shields.io/badge/-00AEF0?style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
 ![Java](https://img.shields.io/badge/Javascript-FF9900?style=for-the-badge&logo=Javascript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-00599C?style=for-the-badge&logo=Dart&logoColor=white)
 #### Framework | Platform
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoColor=white)
+![.Net](https://img.shields.io/badge/dotnet-6342f5?style=for-the-badge&logo=dotNet&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-db215c?style=for-the-badge&logo=angular&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=Git&logoColor=black)
 ![AmazonAws](https://img.shields.io/badge/AmazonAws-FF9900?style=for-the-badge&logo=AmazonAws&logoColor=000000)
-![Docker](https://img.shields.io/badge/Docker-4285F4?style=for-the-badge&logo=Docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-00AEF0?style=for-the-badge&logo=Flutter&logoColor=white)
 #### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
@@ -60,8 +62,8 @@ wave, egg, shark, slice, rect, soft, rounded, sylinder, waving, transparent -->
 #### Others
 ![Linux](https://img.shields.io/badge/Linux-FF9900?style=for-the-badge&logo=Linux&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-black?style=for-the-badge&logo=Vim&logoColor=white)
-![PowerApps](https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=PowerApps&logoColor=white)
-![PowerAutomate](https://img.shields.io/badge/PowerAutomate-0066FF?style=for-the-badge&logo=PowerAutomate&logoColor=white)
+![PowerBI](https://img.shields.io/badge/powerbi-e6af0b?style=for-the-badge&logo=powerbi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-4285F4?style=for-the-badge&logo=Docker&logoColor=white)
 ------------------------------------------------------------------------------------------------------------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeschan119&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeschan119&theme=radical)
