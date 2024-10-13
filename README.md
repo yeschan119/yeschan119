@@ -52,7 +52,6 @@ wave, egg, shark, slice, rect, soft, rounded, sylinder, waving, transparent -->
 ![Angular](https://img.shields.io/badge/angular-db215c?style=for-the-badge&logo=angular&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=Git&logoColor=black)
 ![AmazonAws](https://img.shields.io/badge/AmazonAws-FF9900?style=for-the-badge&logo=AmazonAws&logoColor=000000)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-00AEF0?style=for-the-badge&logo=Flutter&logoColor=white)
 #### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
@@ -63,6 +62,7 @@ wave, egg, shark, slice, rect, soft, rounded, sylinder, waving, transparent -->
 ![Vim](https://img.shields.io/badge/Vim-black?style=for-the-badge&logo=Vim&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/powerbi-e6af0b?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-4285F4?style=for-the-badge&logo=Docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoColor=white)
 ------------------------------------------------------------------------------------------------------------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeschan119&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeschan119&theme=radical)
