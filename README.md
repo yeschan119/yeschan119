@@ -7,20 +7,40 @@
   + 2021: Bachelor. Information System & Computer Software Engineering(CSE), UNIV of HANYANG, Seoul, Korea.
   + Intern
     + 2021.04 ~ 06: Internship(remote work), Next Kernel Inc, Dallas, TX, 75229, US.
-      + Build an email management system.
+      + Build an email management system
+      + Teck Stack🪴
+        + Web : Power BI
+        + App : Power Automate
     + 2021.07.01 ~ 08.27: Internship, Daewoong Pharmacy Co, Seoul, Korea.
       + Build a RPA system.
+      + Tech Stack🪴
+        + Desktop Application : Python
+        + Server : AWS RDS
   + Full-Time
     + 2021.09.01 ~ 2021.12: Researcher, Testworks Co, Seoul, Korea.
-      + AI vision research(object detection, image segmentation).
+      + AI vision research(object detection, image segmentation)
+      + Tech Stack🪴
+        + Language : Python
+        + Code Editor : Visual Studio Code
     + 2022.01 ~ 2024.01: Researcher, DBMS(Tibero) Lab, TmaxData, Seoul, Korea.
       + RDBMS Architecture design & develop
         + Parser/Transformer/Optimizer
       + DB Administration & SQL Tunning Support
-    + 2024.02 ~ : full-stack software developer, Kokomo24/7, Chicago, Illinois.
-      + Server(AWS) Backend(.Net) Frontend(Angular)
+      + Tech Stack🪴
+        + Language : C, C++
+        + DB : Tibero, Oracle
+        + Code Editor : Vim
+    + 2024.02 ~ : full-stack software engineer, Kokomo24/7, Chicago, Illinois.
+      + Solution Software Development(Web, App)
+      + Tech Stack🪴
+        + Frontend : Angular
+        + Backend : .Net
+        + Server : AWS RDS
+        + Database : MySQL, MsSQL
+        + Devops : Azure Devops
+        + Code Editor : Visual Studio Code
 
-  + 📫 How to reach me: yeschan119@naver.com, yeschan119@gmail.com
+  + 📫 How to reach me: yeschan119@gmail.com
 ------------------------------------------------------------------------------------------------------------
 ### My website
   + https://www.yeschan119.com
