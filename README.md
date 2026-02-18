@@ -83,7 +83,7 @@ wave, egg, shark, slice, rect, soft, rounded, sylinder, waving, transparent -->
 ![Docker](https://img.shields.io/badge/Docker-4285F4?style=for-the-badge&logo=Docker&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoColor=white)
 ------------------------------------------------------------------------------------------------------------
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeschan119&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeschan119&theme=radical)
+![Kane's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeschan119&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeschan119&layout=compact&theme=radical)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeschan119)](https://github.com/anuraghazra/github-readme-stats) -->
 ------------------------------------------------------------------------------------------------------------
