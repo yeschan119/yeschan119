@@ -70,6 +70,7 @@ wave, egg, shark, slice, rect, soft, rounded, sylinder, waving, transparent -->
 ![Angular](https://img.shields.io/badge/angular-db215c?style=for-the-badge&logo=angular&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=Git&logoColor=black)
 ![AmazonAws](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazon&logoColor=000000)
+![Azure](https://img.shields.io/badge/azure-FF9900?style=for-the-badge&logo=amazon&logoColor=000000)
 ![Flutter](https://img.shields.io/badge/Flutter-00AEF0?style=for-the-badge&logo=Flutter&logoColor=white)
 #### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
