@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:3b82f6&height=220&section=header&text=Kane%20(Eungchan)%20Kang&fontSize=40&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:3b82f6&height=220&section=header&text=Eungchan%20Kang&fontSize=40&fontColor=ffffff)
 
 # Kane (Eungchan) Kang
 
