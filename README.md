@@ -133,7 +133,7 @@ Python • Computer Vision
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeschan119&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeschan119&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeschan119&layout=compact&theme=radical)
 
