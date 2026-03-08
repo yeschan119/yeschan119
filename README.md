@@ -147,13 +147,19 @@ Python • Computer Vision
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=3776AB)
-![C#](https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-1d55b5?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-FF9900?style=for-the-badge&logo=javascript&logoColor=white)
+![C#](https://img.shields.io/badge/CSharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-1d55b5?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF9900?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PLSQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### Frameworks
-![.NET](https://img.shields.io/badge/dotnet-6342f5?style=for-the-badge&logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-db215c?style=for-the-badge&logo=angular&logoColor=white)
+### Frameworks | Platforms
+![.NET](https://img.shields.io/badge/.NET-6342f5?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-db215c?style=for-the-badge&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Cloud
 ![AWS](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
