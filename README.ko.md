@@ -5,6 +5,7 @@
 **확장 가능한 SaaS 플랫폼, 분산형 클라우드 아키텍처, 고성능 데이터 시스템**구축 경험 보유
 
 📍 한국
+
 🌐 Portfolio: https://www.yeschan119.com  
 📫 Email: yeschan119@gmail.com
 
