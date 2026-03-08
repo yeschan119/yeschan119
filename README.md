@@ -134,7 +134,7 @@ C • C++ • Tibero • Oracle
 ---
 
 ## AI Vision Engineer  
-**Testworks**  
+**AIWORKX**  
 2021
 
 • Built object detection pipelines  
