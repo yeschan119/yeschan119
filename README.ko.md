@@ -22,51 +22,28 @@
 
 ---
 
-# ⭐ 주요 프로젝트
+# ⭐ Featured Projects
 
 ### AWS BI Reporting System
-**AWS QuickSight 임베딩 기반** 클라우드 네이티브 분석 플랫폼
+Cloud-native analytics platform with embedded **AWS QuickSight dashboards**
 
-**Tech**  
+Tech  
 Angular • .NET • AWS • MySQL
 
-🔗 https://github.com/yeschan119/aws-bi-reporting-system
+https://github.com/yeschan119/aws-bi-reporting-system
 
 ---
 
 ### Cloud Data Platform Migration
-기존 **Azure 기반 데이터 파이프라인을 AWS 분산형 분석 아키텍처로 마이그레이션**
+Migrated enterprise analytics pipeline from **Azure to AWS distributed architecture**
 
-**Tech**  
+Tech  
 AWS (Lambda • Step Functions • SQS • EC2 • DynamoDB • S3 • RDS • QuickSight)  
 Azure (Event Hubs • Stream Analytics • Data Factory • Databricks • SQL Server)
 
-🔗 https://github.com/yeschan119/Cloud-Data-Platform-Migration
+https://github.com/yeschan119/Cloud-Data-Platform-Migration
 
 ---
-
-### Real-Time Messaging Service
-고성능 **실시간 채팅 시스템**
-
-**Tech**  
-Angular • .NET 8 • SignalR • AWS
-
-🔗 https://github.com/yeschan119/real-time-messaging-service
-
----
-
-### SQL Tuning Advisor
-DB 성능 튜닝을 위한 **자동 쿼리 최적화 시스템**
-
-**Tech**  
-C++ • Query Optimizer • Database Engine
-
-🔗 https://github.com/yeschan119/SQL_Tuning_Advisor
-
----
-
-<details>
-<summary>More Projects</summary>
 
 ### Incident Management Analytics Platform
 Real-time reporting system supporting thousands of organizations
@@ -85,6 +62,29 @@ Tech
 Angular • ASP.NET Core • OpenTelemetry • AWS
 
 https://github.com/yeschan119/APM-Dashboard
+
+---
+
+<details>
+<summary>More Projects</summary>
+
+### Real-Time Messaging Service
+High-performance **real-time chat system**
+
+Tech  
+Angular • .NET 8 • SignalR • AWS
+
+https://github.com/yeschan119/real-time-messaging-service
+
+---
+
+### SQL Tuning Advisor
+Automated **query optimization system** for database performance tuning
+
+Tech  
+C++ • Query Optimizer • Database Engine
+
+https://github.com/yeschan119/SQL_Tuning_Advisor
 
 ---
 
