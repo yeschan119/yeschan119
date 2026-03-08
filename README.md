@@ -2,8 +2,9 @@
 
 # Kane (Eungchan) Kang
 
-Full-Stack & Data Platform Engineer  
-Building **scalable SaaS systems, distributed cloud architectures, and high-performance database platforms**
+**Full-Stack & Data Platform Engineer**
+
+Building **scalable SaaS platforms, distributed cloud architectures, and high-performance data systems**
 
 📍 Korea  
 🌐 Portfolio: https://www.yeschan119.com  
@@ -11,91 +12,134 @@ Building **scalable SaaS systems, distributed cloud architectures, and high-perf
 
 ---
 
-# 🚀 Core Expertise
+# 🚀 What I Build
 
-• Large-scale SaaS platform architecture  
-• Distributed cloud systems (AWS / Azure)
-• Backend API design (.NET)
-• Angular frontend development
-• Database internals & query optimization
-• Analytics dashboards & reporting systems
+• Large-scale **SaaS platforms**  
+• Distributed **cloud architectures (AWS / Azure)**  
+• High-performance **database & analytics systems**  
+• End-to-end **data platforms and reporting pipelines**
 
-Experience across the **full system lifecycle**  
-architecture → development → deployment → production optimization
+Experience across the **entire system lifecycle**
+
+Architecture → Development → Deployment → Production Optimization
 
 ---
 
 # ⭐ Featured Projects
 
-<details>
-<summary>⭐ Featured Projects (click to expand)</summary>
-
-<div style="max-height:400px; overflow:auto; padding:10px">
-
 ### AWS BI Reporting System
-Cloud-native analytics platform with embedded QuickSight dashboards
+Cloud-native analytics platform with embedded **AWS QuickSight dashboards**
 
 Tech  
-Angular • .NET • AWS • MySQL  
+Angular • .NET • AWS • MySQL
 
 https://github.com/yeschan119/aws-bi-reporting-system
 
+---
+
+### Cloud Data Platform Migration
+Migrated enterprise analytics pipeline from **Azure to AWS distributed architecture**
+
+Tech  
+AWS (Lambda • Step Functions • SQS • EC2 • DynamoDB • S3 • RDS • QuickSight)  
+Azure (Event Hubs • Stream Analytics • Data Factory • Databricks • SQL Server)
+
+https://github.com/yeschan119/Cloud-Data-Platform-Migration
+
+---
+
+### Real-Time Messaging Service
+High-performance **real-time chat system**
+
+Tech  
+Angular • .NET 8 • SignalR • AWS
+
+https://github.com/yeschan119/real-time-messaging-service
+
+---
+
+### SQL Tuning Advisor
+Automated **query optimization system** for database performance tuning
+
+Tech  
+C++ • Query Optimizer • Database Engine
+
+https://github.com/yeschan119/SQL_Tuning_Advisor
+
+---
+
+<details>
+<summary>More Projects</summary>
 
 ### Incident Management Analytics Platform
 Real-time reporting system supporting thousands of organizations
 
 Tech  
-Angular • .NET • AWS • DynamoDB • MySQL  
+Angular • .NET • AWS • DynamoDB • MySQL
 
 https://github.com/yeschan119/incident-management-system
 
+---
 
-### Real-Time Messaging Service
-Real-time chatting service
-
-Tech  
-Angular + .NET 8 + SignalR + AWS  
-
-https://github.com/yeschan119/real-time-messaging-service
-
-
-### Cloud Data Platform Migration
-Azure Data Pipeline → AWS Distributed Analytics Architecture
+### APM (Application Performance Monitoring) Dashboard
+Internal monitoring platform using **OpenTelemetry**
 
 Tech  
-AWS • Lambda • Step Functions • SQS • EC2 • DynamoDB • S3 • RDS • QuickSight  
-
-https://github.com/yeschan119/Cloud-Data-Platform-Migration
-
-
-### APM Dashboard
-Internal Application Performance Monitoring Platform
-
-Tech  
-Angular + ASP.NET Core + OpenTelemetry + AWS
+Angular • ASP.NET Core • OpenTelemetry • AWS
 
 https://github.com/yeschan119/APM-Dashboard
 
-
-### SQL Tuning Advisor
-Automated query performance optimization system
-
-Tech  
-C++ • Database Engine • Query Optimizer  
-
-https://github.com/yeschan119/SQL_Tuning_Advisor
-
+---
 
 ### Edge AI with YOLO
 Edge-based object detection pipeline
 
 Tech  
-Python • YOLO • Computer Vision  
+Python • YOLO • Computer Vision
 
 https://github.com/yeschan119/Edge-AI-with-YOLO
 
-</div>
 </details>
+
+---
+
+# 💼 Professional Experience
+
+## Full-Stack Software Developer  
+**Kokomo Solutions Inc — Chicago**  
+2024 – Present
+
+• Developed SaaS platforms and analytics dashboards  
+• Designed scalable REST APIs and backend systems  
+• Optimized production database queries and performance
+
+Tech  
+Angular • .NET • MySQL • MSSQL • DynamoDB • AWS
+
+---
+
+## Database System Engineer  
+**TmaxData (Tibero DBMS Lab)**  
+2022 – 2024
+
+• Developed RDBMS **query optimizer components**  
+• Implemented **statistics collection and SQL tuning features**  
+• Delivered **enterprise SQL performance optimization**
+
+Tech  
+C • C++ • Tibero • Oracle
+
+---
+
+## AI Vision Engineer  
+**Testworks**  
+2021
+
+• Built object detection pipelines  
+• Implemented segmentation and annotation systems
+
+Tech  
+Python • Computer Vision
 
 ---
 
