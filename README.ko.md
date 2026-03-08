@@ -129,7 +129,7 @@ C • C++ • Tibero • Oracle
 ---
 
 ## AI Vision Engineer  
-**Testworks**  
+**AIWORKX**  
 2021
 
 - 객체 탐지 파이프라인 구축
