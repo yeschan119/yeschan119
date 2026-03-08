@@ -57,10 +57,21 @@ https://github.com/yeschan119/real-time-messaging-service
 
 ---
 
+### Cloud Data Platform Migration
+Azure Data Pipeline → AWS Distributed Analytics Architecture
+
+Tech
+AWS (Lambda + Step Functions + SQS + EC2 + DynamoDB + S3 + RDS + Quicksight)
+Azure (Event Hubs + Stream Analytics + Data Lake + Data Factory + Databricks + SQL Server + PowerBI)
+
+https://github.com/yeschan119/Cloud-Data-Platform-Migration
+
+---
+
 ### SQL Tuning Advisor
 Automated query performance optimization system
 
-Tech  
+Tech
 C++ • Database Engine • Query Optimizer
 
 https://github.com/yeschan119/SQL_Tuning_Advisor
@@ -70,7 +81,7 @@ https://github.com/yeschan119/SQL_Tuning_Advisor
 ### Edge AI with YOLO
 Edge-based object detection pipeline
 
-Tech  
+Tech
 Python • YOLO • Computer Vision
 
 https://github.com/yeschan119/Edge-AI-with-YOLO
