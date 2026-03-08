@@ -40,10 +40,20 @@ https://github.com/yeschan119/aws-bi-reporting-system
 ### Incident Management Analytics Platform
 Real-time reporting system supporting thousands of organizations
 
-Tech  
+Tech
 Angular • .NET • AWS • DynamoDB • MySQL
 
 https://github.com/yeschan119/incident-management-system
+
+---
+
+### Real-Time Messaging Service
+Real-time chatting service
+
+Tech  
+Angular + .NET 8 + SignalR + AWS (Event-Driven Architecture)
+
+https://github.com/yeschan119/real-time-messaging-service
 
 ---
 
