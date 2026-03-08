@@ -68,6 +68,17 @@ https://github.com/yeschan119/Cloud-Data-Platform-Migration
 
 ---
 
+### APM(Application Performance Monitoring) Dashboard
+Internal Application Performance Monitoring Platform
+
+Tech
+Angular + ASP.Net Core + OpenTelemetry SDK + AWS(Lambda + DynamoDB)
+Typescripte + C# + Node.js
+
+https://github.com/yeschan119/APM-Dashboard
+
+---
+
 ### SQL Tuning Advisor
 Automated query performance optimization system
 
@@ -91,7 +102,7 @@ https://github.com/yeschan119/Edge-AI-with-YOLO
 # 💼 Professional Experience
 
 ## Full-Stack Software Developer  
-Kokomo24/7 — Chicago  
+Kokomo Solutions Inc — Chicago  
 2024 – Present
 
 • Built SaaS platforms and analytics dashboards  
