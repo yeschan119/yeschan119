@@ -1,6 +1,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:3b82f6&height=220&section=header&text=Eungchan%20Kang&fontSize=40&fontColor=ffffff)
 
-# Kane (Eungchan) Kang | [한국어 🇰🇷](README.ko.md)
+# Kane (Eungchan) Kang
+
+[한국어 🇰🇷](README.ko.md)
 
 **Full-Stack & Data Platform Engineer**
 
