@@ -65,6 +65,41 @@ C++ • Query Optimizer • Database Engine
 
 ---
 
+<details>
+<summary>More Projects</summary>
+
+### Incident Management Analytics Platform
+Real-time reporting system supporting thousands of organizations
+
+Tech  
+Angular • .NET • AWS • DynamoDB • MySQL
+
+https://github.com/yeschan119/incident-management-system
+
+---
+
+### APM (Application Performance Monitoring) Dashboard
+Internal monitoring platform using **OpenTelemetry**
+
+Tech  
+Angular • ASP.NET Core • OpenTelemetry • AWS
+
+https://github.com/yeschan119/APM-Dashboard
+
+---
+
+### Edge AI with YOLO
+Edge-based object detection pipeline
+
+Tech  
+Python • YOLO • Computer Vision
+
+https://github.com/yeschan119/Edge-AI-with-YOLO
+
+</details>
+
+---
+
 # 경력
 
 ## Full-Stack Software Developer  
