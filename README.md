@@ -12,7 +12,7 @@ Building **scalable SaaS platforms, distributed cloud architectures, and high-pe
 
 ---
 
-# 🚀 What I Build
+# What I Build
 
 • Large-scale **SaaS platforms**  
 • Distributed **cloud architectures (AWS / Azure)**  
@@ -103,7 +103,7 @@ https://github.com/yeschan119/Edge-AI-with-YOLO
 
 ---
 
-# 💼 Professional Experience
+# Professional Experience
 
 ## Full-Stack Software Developer  
 **Kokomo Solutions Inc — Chicago**  
@@ -143,7 +143,7 @@ Python • Computer Vision
 
 ---
 
-# 🧰 Tech Stack
+# Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=3776AB)
