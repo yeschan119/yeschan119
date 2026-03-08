@@ -83,6 +83,17 @@ https://github.com/yeschan119/real-time-messaging-service
 
 ---
 
+### Insurance Claim Lifecycle Tracking System
+large-scale Insurance Claim **Lifecycle Tracking & Monitoring** System built on top of the Stedi EDI platform.
+
+Tech  
+Angular • .NET 8 • AWs(Lambda, EventBridge)
+MySQL • DynamoDB
+
+https://github.com/yeschan119/insurance-claim-tracking-system
+
+---
+
 ### SQL Tuning Advisor
 Automated **query optimization system** for database performance tuning
 
