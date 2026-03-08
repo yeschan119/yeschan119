@@ -50,29 +50,6 @@ https://github.com/yeschan119/Cloud-Data-Platform-Migration
 
 ---
 
-### Real-Time Messaging Service
-High-performance **real-time chat system**
-
-Tech  
-Angular • .NET 8 • SignalR • AWS
-
-https://github.com/yeschan119/real-time-messaging-service
-
----
-
-### SQL Tuning Advisor
-Automated **query optimization system** for database performance tuning
-
-Tech  
-C++ • Query Optimizer • Database Engine
-
-https://github.com/yeschan119/SQL_Tuning_Advisor
-
----
-
-<details>
-<summary>More Projects</summary>
-
 ### Incident Management Analytics Platform
 Real-time reporting system supporting thousands of organizations
 
@@ -90,6 +67,29 @@ Tech
 Angular • ASP.NET Core • OpenTelemetry • AWS
 
 https://github.com/yeschan119/APM-Dashboard
+
+---
+
+<details>
+<summary>More Projects</summary>
+
+### Real-Time Messaging Service
+High-performance **real-time chat system**
+
+Tech  
+Angular • .NET 8 • SignalR • AWS
+
+https://github.com/yeschan119/real-time-messaging-service
+
+---
+
+### SQL Tuning Advisor
+Automated **query optimization system** for database performance tuning
+
+Tech  
+C++ • Query Optimizer • Database Engine
+
+https://github.com/yeschan119/SQL_Tuning_Advisor
 
 ---
 
