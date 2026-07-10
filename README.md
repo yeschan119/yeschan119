@@ -122,9 +122,9 @@ https://github.com/yeschan119/Edge-AI-with-YOLO
 **Ko&Clo**
 2026.05 ~ Present
 
-• Designed and automated apparel sales, inventory, ordering, settlement, and store operations as a unified apparel distribution management system 
-• Applied Software Architecture principles to the apparel company system, separating domain, API, data, and deployment layers 
-• Built an AI Agent-based environment that connects system queries, controls, and automation tasks so operators can control the software more directly 
+### Designed and automated apparel sales, inventory, ordering, settlement, and store operations as a unified apparel distribution management system 
+### Applied Software Architecture principles to the apparel company system, separating domain, API, data, and deployment layers 
+### Built an AI Agent-based environment that connects system queries, controls, and automation tasks so operators can control the software more directly 
 
 Tech  
 Fastapi • Python • Vue • Docker • Postgres • AWS
