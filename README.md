@@ -135,8 +135,8 @@ Fastapi • Python • Vue • Docker • Postgres • AWS
 **Kokomo Solutions Inc — Chicago**
 2024 – 2026.04
 
-• Developed SaaS platforms and analytics dashboards  
-• Designed scalable REST APIs and backend systems  
+• Developed SaaS platforms and analytics dashboards
+• Designed scalable REST APIs and backend systems
 • Optimized production database queries and performance
 
 Tech  
