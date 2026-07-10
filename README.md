@@ -119,8 +119,9 @@ https://github.com/yeschan119/Edge-AI-with-YOLO
 # Professional Experience
 
 ## Senior Software Engineer
-**Ko&Clo
+**Ko&Clo**
 2026.05 ~ Present
+
 • Designed and automated apparel sales, inventory, ordering, settlement, and store operations as a unified apparel distribution management system
 • Applied Software Architecture principles to the apparel company system, separating domain, API, data, and deployment layers
 • Built an AI Agent-based environment that connects system queries, controls, and automation tasks so operators can control the software more directly
@@ -131,7 +132,7 @@ Fastapi • Python • Vue • Docker • Postgres • AWS
 ---
 
 ## Full-Stack Software Developer  
-**Kokomo Solutions Inc — Chicago**  
+**Kokomo Solutions Inc — Chicago**
 2024 – 2026.04
 
 • Developed SaaS platforms and analytics dashboards  
