@@ -1,202 +1,163 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:3b82f6&height=220&section=header&text=Eungchan%20Kang&fontSize=40&fontColor=ffffff)
+<div align="center">
 
-# Kane (Eungchan) Kang - 강응찬
+# Kane (Eungchan) Kang · 강응찬
 
-[한국어 🇰🇷](README.ko.md)
+**Full-Stack & Data Platform Engineer** · Seoul, Korea
 
-**Full-Stack & Data Platform Engineer**
+Building scalable systems from **database internals** to **dashboards** —
+architecture, delivery, and production optimization across the full lifecycle.
 
-Building **scalable SaaS platforms, distributed cloud architectures, and high-performance data systems**
+[![Portfolio](https://img.shields.io/badge/Portfolio-yeschan119.com-00b4d8?style=flat-square&logo=googlechrome&logoColor=white)](https://www.yeschan119.com)
+[![Resume](https://img.shields.io/badge/Resume-PDF-023e8a?style=flat-square&logo=readthedocs&logoColor=white)](https://yeschan119.com/docs/Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yeschan119-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeschan119/)
+[![Email](https://img.shields.io/badge/Email-yeschan119%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yeschan119@gmail.com)
 
-📍 Korea  
-🌐 Portfolio: https://www.yeschan119.com  
-📫 Email: yeschan119@gmail.com
+[**한국어 🇰🇷**](README.ko.md)
 
----
-
-# What I Build
-
-• Large-scale **SaaS platforms**  
-• Distributed **cloud architectures (AWS / Azure)**  
-• High-performance **database & analytics systems**  
-• End-to-end **data platforms and reporting pipelines**
-
-Experience across the **entire system lifecycle**
-
-Architecture → Development → Deployment → Production Optimization
+</div>
 
 ---
 
-# ⭐ Featured Projects
+## At a glance
 
-### AWS BI Reporting System
-Cloud-native analytics platform with embedded **AWS QuickSight dashboards**
-
-Tech  
-Angular • .NET • AWS • MySQL
-
-https://github.com/yeschan119/aws-bi-reporting-system
-
----
-
-### Cloud Data Platform Migration
-Migrated enterprise analytics pipeline from **Azure to AWS distributed architecture**
-
-Tech  
-AWS (Lambda • Step Functions • SQS • EC2 • DynamoDB • S3 • RDS • QuickSight)  
-Azure (Event Hubs • Stream Analytics • Data Factory • Databricks • SQL Server)
-
-https://github.com/yeschan119/Cloud-Data-Platform-Migration
+|  |  |
+| :-- | :-- |
+| **Focus** | Multi-tenant SaaS · Distributed cloud architecture (AWS / Azure) · RDBMS internals & query optimization |
+| **Scale shipped** | Analytics platform for **2,000+ schools**, 5 years of historical data, **~3s** average dashboard response |
+| **Depth** | Built optimizer, statistics, and SQL-tuning modules **inside a commercial RDBMS engine** (Tibero, C/C++) |
+| **Now building** | An apparel ERP as a single system of record — **97 tables**, **16 nightly batches**, operated by AI agents |
+| **Experience** | 5+ years · AI Vision → RDBMS Engine → SaaS Platform → System Architecture |
 
 ---
 
-### Incident Management Analytics Platform
-Real-time reporting system supporting thousands of organizations
+## Selected work
 
-Tech  
-Angular • .NET • AWS • DynamoDB • MySQL
-
-https://github.com/yeschan119/incident-management-system
-
----
-
-### APM (Application Performance Monitoring) Dashboard
-Internal monitoring platform using **OpenTelemetry**
-
-Tech  
-Angular • ASP.NET Core • OpenTelemetry • AWS
-
-https://github.com/yeschan119/APM-Dashboard
-
----
+| Project | Impact | Stack |
+| :-- | :-- | :-- |
+| **[AWS BI Reporting System](https://github.com/yeschan119/aws-bi-reporting-system)**<br/>Embedded QuickSight analytics with multi-tenant access control | **↓ ~90%** BI operating cost · **~3s** avg dashboard · **2,000+** schools | Angular · .NET · QuickSight · RDS · DynamoDB |
+| **[Cloud Data Platform Migration](https://github.com/yeschan119/Cloud-Data-Platform-Migration)**<br/>Azure → AWS. A full redesign, not a lift-and-shift | Event-driven distributed snapshot engine with horizontal scaling | Lambda · Step Functions · SQS · EC2 ASG · S3 · QuickSight |
+| **[Incident Management Platform](https://github.com/yeschan119/incident-management-system)**<br/>Multi-tenant real-time reporting, OLTP / analytics separated | **↓ ~20%** dashboard latency · **↑ ~30%** aggregation performance | Angular · ASP.NET Core · MySQL · partitioning · DB views |
+| **[SQL Tuning Advisor](https://github.com/yeschan119/SQL_Tuning_Advisor)**<br/>Oracle's advisor reverse-engineered and rebuilt inside a commercial engine | Automated SQL Profile / index / statistics recommendations | C++ · PL/SQL · optimizer internals |
+| **[RDBMS Statistics & Optimizer](https://github.com/yeschan119/RDBMS-Stat-Optimizer-Engineering)**<br/>Dedicated index-statistics node; fixed clustering-factor inaccuracy | **↑ 90%+** statistics accuracy → stable index scan plans | C · C++ · Tibero |
+| **[APM Dashboard](https://github.com/yeschan119/APM-Dashboard)**<br/>Distributed tracing, Controller → API → SQL | Custom OpenTelemetry exporter, full trace-tree reconstruction | .NET · OpenTelemetry · DynamoDB · AWS |
 
 <details>
-<summary>More Projects</summary>
+<summary><b>More projects</b></summary>
 
-### Real-Time Messaging Service
-High-performance **real-time chat system**
+<br/>
 
-Tech  
-Angular • .NET 8 • SignalR • AWS
-
-https://github.com/yeschan119/real-time-messaging-service
-
----
-
-### Insurance Claim Lifecycle Tracking System
-large-scale Insurance Claim **Lifecycle Tracking & Monitoring** System built on top of the Stedi EDI platform.
-
-Tech  
-Angular • .NET 8 • AWs(Lambda, EventBridge)
-MySQL • DynamoDB
-
-https://github.com/yeschan119/insurance-claim-tracking-system
-
----
-
-### SQL Tuning Advisor
-Automated **query optimization system** for database performance tuning
-
-Tech  
-C++ • Query Optimizer • Database Engine
-
-https://github.com/yeschan119/SQL_Tuning_Advisor
-
----
-
-### Edge AI with YOLO
-Edge-based object detection pipeline
-
-Tech  
-Python • YOLO • Computer Vision
-
-https://github.com/yeschan119/Edge-AI-with-YOLO
+| Project | What it is | Stack |
+| :-- | :-- | :-- |
+| **[Real-Time Messaging Service](https://github.com/yeschan119/real-time-messaging-service)** | WebSocket chat with strict ordering — SQS FIFO → Lambda → DynamoDB | .NET 8 · SignalR · SQS · Lambda |
+| **[Insurance Claim Tracking](https://github.com/yeschan119/insurance-claim-tracking-system)** | Claim lifecycle tracking on the Stedi EDI platform | Angular · .NET 8 · EventBridge · DynamoDB |
+| **[Edge AI with YOLO](https://github.com/yeschan119/Edge-AI-with-YOLO)** | Object detection tuned for edge devices without GPUs | Python · YOLO · OpenCV |
+| **[SNU Data Voucher](https://github.com/yeschan119/SNU-data-voucher)** | Image segmentation & annotation pipeline | Python · OpenCV |
+| **[Database Build Project](https://github.com/yeschan119/Database_Build_Project)** | DB engine index design — search, range, insert/update/delete, parallel | C |
+| **[Portfolio](https://github.com/yeschan119/portfolio)** | This site — bilingual, AI chat trained on my git history | HTML · Tailwind · LLM |
 
 </details>
 
----
-
-# Professional Experience
-
-## Senior Software Engineer
-**Ko&Clo**
-2026.05 ~ Present
-
-- Designed and automated apparel sales, inventory, ordering, settlement, and store operations as a unified apparel distribution management system 
-- Applied Software Architecture principles to the apparel company system, separating domain, API, data, and deployment layers 
-- Built an AI Agent-based environment that connects system queries, controls, and automation tasks so operators can control the software more directly 
-
-Tech  
-Fastapi • Python • Vue • Docker • Postgres • AWS
+> **Architecture deep dives** with diagrams and design rationale live on the portfolio:
+> [BI Reporting](https://yeschan119.com/projects/aws-bi-reporting.html) ·
+> [Cloud Migration](https://yeschan119.com/projects/cloud-data-platform-migration.html) ·
+> [Incident Management](https://yeschan119.com/projects/incident-management-system.html) ·
+> [SQL Tuning Advisor](https://yeschan119.com/projects/sql_tuning_advisor.html) ·
+> [DB Administration](https://yeschan119.com/projects/database-administration.html) ·
+> [ERP Database](https://yeschan119.com/projects/erp-database-design.html) ·
+> [Agent-Native Platform](https://yeschan119.com/projects/agent-native-platform.html)
 
 ---
 
-## Full-Stack Software Developer  
-**Kokomo Solutions Inc — Chicago**
-2024 – 2026.04
+## Currently building
 
-- Developed SaaS platforms and analytics dashboards
-- Designed scalable REST APIs and backend systems
-- Optimized production database queries and performance 
+### 🏢 [Ko&Clo](https://github.com/ko-clo) — Senior Software Engineer 🔒 *private org*
 
-Tech  
-Angular • .NET • MySQL • MSSQL • DynamoDB • AWS
+An apparel distribution ERP covering sales, inventory, ordering, settlement, and store operations.
 
----
+**Two tracks I own**
 
-## Database System Engineer  
-**TmaxData (Tibero DBMS Lab)**  
-2022 – 2024
+| Track | What it is | Where it stands |
+| :-- | :-- | :-- |
+| **ERP Database & Batch Platform** | Seven years of Excel/CSV moved into one PostgreSQL system of record | **97 tables** across 5 domains · **16 nightly batches** (02:00–06:30) · idempotent UPSERT backfill · per-store list partitioning |
+| **Agent-Native Development Platform** | Harness / Graph / Loop engineering so AI agents can build and operate the system safely | **46 permission rules** · **7 lifecycle hooks** · **53 agents** mapped 1:1 onto subtabs · 3-layer memory |
 
-• Developed RDBMS **query optimizer components**  
-• Implemented **statistics collection and SQL tuning features**  
-• Delivered **enterprise SQL performance optimization**
+**Roadmap** *(live milestones — repos are private)*
 
-Tech  
-C • C++ • Tibero • Oracle
+| Milestone | Progress | Scope |
+| :-- | :-- | :-- |
+| Store operations dashboard | `9/12` ▓▓▓▓▓▓░░ 75% | 매장별 대시보드 기능 추가·수정 |
+| Product category classification | `8/9` ▓▓▓▓▓▓▓░ 89% | 카테고리 탭 활성화 |
+| Wholesale reorder stabilization | `1/1` ▓▓▓▓▓▓▓▓ 100% | 도매리오더 안정화 |
+| Product-code generation from images | `planned` ░░░░░░░░ | 품번생성 프로젝트 |
 
----
+**Open threads** — AI Agent + MCP for per-store task monitoring · category analysis API ·
+sample-return detail flow · wholesale reorder revisions · report tab migrated onto the DB
 
-## AI Vision Engineer  
-**AIWORKX**  
-2021
+### 🎓 [Pennsylvania State University](https://github.com/psu-edu) — M.S. Software Engineering
 
-• Built object detection pipelines  
-• Implemented segmentation and annotation systems
-
-Tech  
-Python • Computer Vision
+Graduate research in **software architecture**.
 
 ---
 
-# Tech Stack
+## Experience
 
-### Languages
-![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=3776AB)
-![C#](https://img.shields.io/badge/CSharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-1d55b5?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF9900?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PLSQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+| Period | Role | Where | What I owned |
+| :-- | :-- | :-- | :-- |
+| **2026.05 –** | Senior Software Engineer | **Ko&Clo** · Seoul | Unified apparel distribution ERP · layered architecture (domain / API / data / deploy) · AI-agent operations framework |
+| **2024.02 – 2026.04** | Full-Stack Software Engineer | **Kokomo Solutions** · Chicago | Multi-tenant SaaS architecture · end-to-end analytics platform · **~30%** overall performance gain via DB/backend optimization |
+| **2022.01 – 2024.02** | Database Engineer *(RDBMS Engine)* | **TmaxData** · Seongnam | Optimizer & statistics modules · SQL Tuning Advisor · SPM · enterprise/bank SQL tuning support · C → C++ modernization |
+| **2021.09 – 2021.12** | AI Vision Engineer | **AIWORKX** · Seoul | Edge object detection without GPUs · segmentation & annotation productization |
 
-### Frameworks | Platforms
-![.NET](https://img.shields.io/badge/.NET-6342f5?style=for-the-badge&logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-db215c?style=for-the-badge&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+**Education**
 
-### Cloud
-![AWS](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
-![Azure](https://img.shields.io/badge/azure-0066FF?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Tibero](https://img.shields.io/badge/Tibero-0066FF?style=for-the-badge)
+- **M.S. Software Engineering** — [Pennsylvania State University](https://github.com/psu-edu)
+- **B.S. Information Systems** *(minor: Computer Science)* — Hanyang University · GPA 4.18 / 4.5
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1f2937&height=120&section=footer)
+## Tech
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL%20%7C%20PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+**Backend & Frontend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![.NET](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+**Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Tibero](https://img.shields.io/badge/Tibero-0066FF?style=flat-square)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+
+**Cloud & Ops**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+
+---
+
+<div align="center">
+
+**Open to senior / staff engineering roles** — platform, data, and database-heavy systems.
+
+[yeschan119.com](https://www.yeschan119.com) · [yeschan119@gmail.com](mailto:yeschan119@gmail.com) · [LinkedIn](https://www.linkedin.com/in/yeschan119/)
+
+</div>
