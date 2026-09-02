@@ -4,7 +4,7 @@
 
 [한국어 🇰🇷](README.ko.md)
 
-**Full-Stack & Data Platform Engineer**
+**Full-Stack & Software Architect
 
 Building **scalable SaaS platforms, distributed cloud architectures, and high-performance data systems**
 
