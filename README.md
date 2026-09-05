@@ -2,7 +2,7 @@
 
 [한국어 🇰🇷](README.ko.md)
 
-📫 Email: yeschan119@gmail.com
+📫 : yeschan119@gmail.com
 
 ---
 
