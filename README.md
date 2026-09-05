@@ -48,7 +48,7 @@
       </td>
   </tr>
   <tr>
-    <td width="132" align="left"><b>Backend</b></td>
+    <td width="132" align="left"><b>Frameworks</b></td>
       <td align="center" width="88">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt=".NET" /><br />
         <sub><b>.NET</b></sub>
@@ -61,10 +61,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" /><br />
         <sub><b>Node.js</b></sub>
       </td>
-      <td colspan="3"></td>
-  </tr>
-  <tr>
-    <td width="132" align="left"><b>Frontend</b></td>
       <td align="center" width="88">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular" /><br />
         <sub><b>Angular</b></sub>
@@ -77,15 +73,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" /><br />
         <sub><b>Flutter</b></sub>
       </td>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /><br />
-        <sub><b>HTML5</b></sub>
-      </td>
-      <td align="center" width="88">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /><br />
-        <sub><b>CSS3</b></sub>
-      </td>
-      <td colspan="1"></td>
   </tr>
   <tr>
     <td width="132" align="left"><b>Databases</b></td>
