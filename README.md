@@ -4,13 +4,14 @@
 
 [한국어 🇰🇷](README.ko.md)
 
-**Full-Stack & Software Architect
+**Full-Stack & Software Architect**
 
 Building **scalable SaaS platforms, distributed cloud architectures, and high-performance data systems**
 
 📍 Korea  
 🌐 Portfolio: https://www.yeschan119.com  
-📫 Email: yeschan119@gmail.com
+📫 Email: yeschan119@gmail.com  
+🐙 GitHub: https://github.com/yeschan119
 
 ---
 
@@ -27,149 +28,7 @@ Architecture → Development → Deployment → Production Optimization
 
 ---
 
-# ⭐ Featured Projects
-
-### AWS BI Reporting System
-Cloud-native analytics platform with embedded **AWS QuickSight dashboards**
-
-Tech  
-Angular • .NET • AWS • MySQL
-
-https://github.com/yeschan119/aws-bi-reporting-system
-
----
-
-### Cloud Data Platform Migration
-Migrated enterprise analytics pipeline from **Azure to AWS distributed architecture**
-
-Tech  
-AWS (Lambda • Step Functions • SQS • EC2 • DynamoDB • S3 • RDS • QuickSight)  
-Azure (Event Hubs • Stream Analytics • Data Factory • Databricks • SQL Server)
-
-https://github.com/yeschan119/Cloud-Data-Platform-Migration
-
----
-
-### Incident Management Analytics Platform
-Real-time reporting system supporting thousands of organizations
-
-Tech  
-Angular • .NET • AWS • DynamoDB • MySQL
-
-https://github.com/yeschan119/incident-management-system
-
----
-
-### APM (Application Performance Monitoring) Dashboard
-Internal monitoring platform using **OpenTelemetry**
-
-Tech  
-Angular • ASP.NET Core • OpenTelemetry • AWS
-
-https://github.com/yeschan119/APM-Dashboard
-
----
-
-<details>
-<summary>More Projects</summary>
-
-### Real-Time Messaging Service
-High-performance **real-time chat system**
-
-Tech  
-Angular • .NET 8 • SignalR • AWS
-
-https://github.com/yeschan119/real-time-messaging-service
-
----
-
-### Insurance Claim Lifecycle Tracking System
-large-scale Insurance Claim **Lifecycle Tracking & Monitoring** System built on top of the Stedi EDI platform.
-
-Tech  
-Angular • .NET 8 • AWs(Lambda, EventBridge)
-MySQL • DynamoDB
-
-https://github.com/yeschan119/insurance-claim-tracking-system
-
----
-
-### SQL Tuning Advisor
-Automated **query optimization system** for database performance tuning
-
-Tech  
-C++ • Query Optimizer • Database Engine
-
-https://github.com/yeschan119/SQL_Tuning_Advisor
-
----
-
-### Edge AI with YOLO
-Edge-based object detection pipeline
-
-Tech  
-Python • YOLO • Computer Vision
-
-https://github.com/yeschan119/Edge-AI-with-YOLO
-
-</details>
-
----
-
-# Professional Experience
-
-## Senior Software Engineer
-**Ko&Clo**
-2026.05 ~ Present
-
-- Designed and automated apparel sales, inventory, ordering, settlement, and store operations as a unified apparel distribution management system 
-- Applied Software Architecture principles to the apparel company system, separating domain, API, data, and deployment layers 
-- Built an AI Agent-based environment that connects system queries, controls, and automation tasks so operators can control the software more directly 
-
-Tech  
-Fastapi • Python • Vue • Docker • Postgres • AWS
-
----
-
-## Full-Stack Software Developer  
-**Kokomo Solutions Inc — Chicago**
-2024 – 2026.04
-
-- Developed SaaS platforms and analytics dashboards
-- Designed scalable REST APIs and backend systems
-- Optimized production database queries and performance 
-
-Tech  
-Angular • .NET • MySQL • MSSQL • DynamoDB • AWS
-
----
-
-## Database System Engineer  
-**TmaxData (Tibero DBMS Lab)**  
-2022 – 2024
-
-• Developed RDBMS **query optimizer components**  
-• Implemented **statistics collection and SQL tuning features**  
-• Delivered **enterprise SQL performance optimization**
-
-Tech  
-C • C++ • Tibero • Oracle
-
----
-
-## AI Vision Engineer  
-**AIWORKX**  
-2021
-
-• Built object detection pipelines  
-• Implemented segmentation and annotation systems
-
-Tech  
-Python • Computer Vision
-
----
-
-# Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=3776AB)
@@ -184,8 +43,11 @@ Python • Computer Vision
 ### Frameworks | Platforms
 ![.NET](https://img.shields.io/badge/.NET-6342f5?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-db215c?style=for-the-badge&logo=angular&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Cloud
 ![AWS](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
@@ -194,8 +56,126 @@ Python • Computer Vision
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Tibero](https://img.shields.io/badge/Tibero-0066FF?style=for-the-badge)
+
+---
+
+# 📌 Pinned
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/yeschan119/aws-bi-reporting-system">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yeschan119&repo=aws-bi-reporting-system&theme=github_dark&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/yeschan119/Cloud-Data-Platform-Migration">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yeschan119&repo=Cloud-Data-Platform-Migration&theme=github_dark&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/yeschan119/incident-management-system">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yeschan119&repo=incident-management-system&theme=github_dark&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/yeschan119/APM-Dashboard">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yeschan119&repo=APM-Dashboard&theme=github_dark&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/yeschan119/insurance-claim-tracking-system">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yeschan119&repo=insurance-claim-tracking-system&theme=github_dark&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/yeschan119/real-time-messaging-service">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yeschan119&repo=real-time-messaging-service&theme=github_dark&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<a href="https://github.com/yeschan119?tab=repositories">See all repositories →</a>
+
+---
+
+# 📊 Contributions
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yeschan119&theme=github-compact&hide_border=true&area=true)](https://github.com/yeschan119)
+
+<a href="https://github.com/yeschan119">
+  <img src="https://github-readme-stats.vercel.app/api?username=yeschan119&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+</a>
+<a href="https://github.com/yeschan119">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeschan119&layout=compact&theme=github_dark&hide_border=true" height="165" />
+</a>
+
+---
+
+# 💼 Professional Experience
+
+<details>
+<summary><b>Senior Software Engineer</b> — Ko&Clo (2026.05 ~ Present)</summary>
+
+<br>
+
+- Designed and automated apparel sales, inventory, ordering, settlement, and store operations as a unified apparel distribution management system
+- Applied Software Architecture principles to the apparel company system, separating domain, API, data, and deployment layers
+- Built an AI Agent-based environment that connects system queries, controls, and automation tasks so operators can control the software more directly
+
+**Tech**  
+FastAPI • Python • Vue • Docker • Postgres • AWS
+
+</details>
+
+<details>
+<summary><b>Full-Stack Software Developer</b> — Kokomo Solutions Inc, Chicago (2024 – 2026.04)</summary>
+
+<br>
+
+- Developed SaaS platforms and analytics dashboards
+- Designed scalable REST APIs and backend systems
+- Optimized production database queries and performance
+
+**Tech**  
+Angular • .NET • MySQL • MSSQL • DynamoDB • AWS
+
+</details>
+
+<details>
+<summary><b>Database System Engineer</b> — TmaxData, Tibero DBMS Lab (2022 – 2024)</summary>
+
+<br>
+
+- Developed RDBMS **query optimizer components**
+- Implemented **statistics collection and SQL tuning features**
+- Delivered **enterprise SQL performance optimization**
+
+**Tech**  
+C • C++ • Tibero • Oracle
+
+</details>
+
+<details>
+<summary><b>AI Vision Engineer</b> — AIWORKX (2021)</summary>
+
+<br>
+
+- Built object detection pipelines
+- Implemented segmentation and annotation systems
+
+**Tech**  
+Python • Computer Vision
+
+</details>
 
 ---
 
