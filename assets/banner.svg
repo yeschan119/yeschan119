@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-label="Eungchan Kang — Software Architect">
+  <rect width="1200" height="180" fill="#0d1117"/>
+  <rect x="0" y="0" width="4" height="180" fill="#3b82f6"/>
+  <g font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif">
+    <text x="56" y="86" font-size="42" font-weight="200" letter-spacing="10" fill="#e6edf3">EUNGCHAN KANG</text>
+    <text x="60" y="122" font-size="15" font-weight="400" letter-spacing="4" fill="#3b82f6">SOFTWARE ARCHITECT</text>
+  </g>
+</svg>
