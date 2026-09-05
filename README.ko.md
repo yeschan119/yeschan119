@@ -1,12 +1,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:3b82f6&height=220&section=header&text=Eungchan%20Kang&fontSize=40&fontColor=ffffff)
 
-# 강응찬
-
 [English 🇺🇸](README.md)
 
-**풀스택 & 소프트웨어 아키텍트**
+**소프트웨어 아키텍트**
 
-**확장 가능한 SaaS 플랫폼, 분산형 클라우드 아키텍처, 고성능 데이터 시스템** 구축 경험 보유
+**확장 가능한 소프트웨어 플랫폼, 분산형 클라우드 아키텍처, AI 네이티브 시스템** 구축
 
 📍 한국  
 🌐 Portfolio: https://www.yeschan119.com  
@@ -19,9 +17,7 @@
 • 대규모 **SaaS 플랫폼** 개발  
 • **AWS / Azure 기반 분산 클라우드 아키텍처** 설계 및 구축  
 • 고성능 **DB / Analytics 시스템** 개발  
-• **데이터 플랫폼 및 리포팅 파이프라인** end-to-end 구현
-
-**아키텍처 설계 → 개발 → 배포 → 운영 최적화**까지 전체 시스템 라이프사이클 경험
+• **AI 네이티브 개발 플랫폼** 설계 및 구축
 
 ---
 

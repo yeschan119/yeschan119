@@ -1,12 +1,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:3b82f6&height=220&section=header&text=Eungchan%20Kang&fontSize=40&fontColor=ffffff)
 
-# Kane (Eungchan) Kang - 강응찬
-
 [한국어 🇰🇷](README.ko.md)
 
-**Full-Stack & Software Architect**
+**Software Architect**
 
-Building **scalable SaaS platforms, distributed cloud architectures, and high-performance data systems**
+Building **scalable Software platforms, distributed cloud architectures, and AI-native systems**
 
 📍 Korea  
 🌐 Portfolio: https://www.yeschan119.com  
@@ -19,11 +17,7 @@ Building **scalable SaaS platforms, distributed cloud architectures, and high-pe
 • Large-scale **SaaS platforms**  
 • Distributed **cloud architectures (AWS / Azure)**  
 • High-performance **database & analytics systems**  
-• End-to-end **data platforms and reporting pipelines**
-
-Experience across the **entire system lifecycle**
-
-Architecture → Development → Deployment → Production Optimization
+• Design & Build **AI-native Dev Platforms**
 
 ---
 
