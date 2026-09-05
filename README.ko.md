@@ -137,20 +137,16 @@
   <tr>
     <td width="132" align="left"><b>Agentic Dev</b></td>
       <td align="center" width="88">
-        <img src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white" height="40" alt="Claude Code" /><br />
-        <sub><b>Claude Code</b></sub>
+        <img src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white" height="40" alt="Claude Code" />
       </td>
       <td align="center" width="88">
-        <img src="https://img.shields.io/badge/-Codex-10A37F?style=flat-square&logoColor=white" height="40" alt="Codex" /><br />
-        <sub><b>Codex</b></sub>
+        <img src="https://img.shields.io/badge/-Codex-10A37F?style=flat-square&logoColor=white" height="40" alt="Codex" />
       </td>
       <td align="center" width="88">
-        <img src="https://img.shields.io/badge/-MCP-1f2937?style=flat-square&logo=modelcontextprotocol&logoColor=white" height="40" alt="MCP" /><br />
-        <sub><b>MCP</b></sub>
+        <img src="https://img.shields.io/badge/-MCP-1f2937?style=flat-square&logo=modelcontextprotocol&logoColor=white" height="40" alt="MCP" />
       </td>
       <td align="center" width="88">
-        <img src="https://img.shields.io/badge/-Agents-3b82f6?style=flat-square&logoColor=white" height="40" alt="Sub-Agents" /><br />
-        <sub><b>Sub-Agents</b></sub>
+        <img src="https://img.shields.io/badge/-Agents-3b82f6?style=flat-square&logoColor=white" height="40" alt="Sub-Agents" />
       </td>
       <td colspan="2"></td>
   </tr>
