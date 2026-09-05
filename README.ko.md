@@ -52,3 +52,23 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Tibero](https://img.shields.io/badge/Tibero-0066FF?style=for-the-badge)
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=yeschan119&show_icons=true&icon_color=3b82f6&include_all_commits=true&rank_icon=github&title_color=3b82f6&text_color=c9d1d9&bg_color=00000000&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=yeschan119&show_icons=true&icon_color=3b82f6&include_all_commits=true&rank_icon=github&title_color=3b82f6&text_color=24292f&bg_color=00000000&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=yeschan119&show_icons=true&icon_color=3b82f6&include_all_commits=true&rank_icon=github&title_color=3b82f6&text_color=c9d1d9&bg_color=00000000&hide_border=true" height="180" alt="GitHub Stats" />
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yeschan119&layout=compact&langs_count=8&title_color=3b82f6&text_color=c9d1d9&bg_color=00000000&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yeschan119&layout=compact&langs_count=8&title_color=3b82f6&text_color=24292f&bg_color=00000000&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yeschan119&layout=compact&langs_count=8&title_color=3b82f6&text_color=c9d1d9&bg_color=00000000&hide_border=true" height="180" alt="Most Used Languages" />
+</picture>
+
+</div>
