@@ -2,8 +2,6 @@
 
 [English 🇺🇸](README.md)
 
-**확장 가능한 소프트웨어 플랫폼, 분산형 클라우드 아키텍처, AI 네이티브 시스템** 구축
-
 📍 한국  
 🌐 Portfolio: https://www.yeschan119.com  
 📫 Email: yeschan119@gmail.com

@@ -2,8 +2,6 @@
 
 [한국어 🇰🇷](README.ko.md)
 
-Building **scalable Software platforms, distributed cloud architectures, and AI-native systems**
-
 📍 Korea  
 🌐 Portfolio: https://www.yeschan119.com  
 📫 Email: yeschan119@gmail.com

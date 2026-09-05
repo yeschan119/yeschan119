@@ -1,6 +1,42 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-label="Eungchan Kang — Software Architect">
-  <rect width="1200" height="180" fill="#0d1117"/>
-  <rect x="0" y="0" width="4" height="180" fill="#3b82f6"/>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0f151d"/>
+      <stop offset="100%" stop-color="#090d12"/>
+    </linearGradient>
+    <linearGradient id="leftEdge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#60a5fa" stop-opacity="0.35"/>
+      <stop offset="55%" stop-color="#3b82f6" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#60a5fa" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="bottomEdge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#60a5fa" stop-opacity="1"/>
+      <stop offset="35%" stop-color="#3b82f6" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="cornerGlow" cx="0" cy="1" r="0.8">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.26"/>
+      <stop offset="45%" stop-color="#3b82f6" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="neon" filterUnits="userSpaceOnUse" x="-40" y="-40" width="1280" height="260">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="180" fill="url(#bg)"/>
+  <rect width="1200" height="180" fill="url(#cornerGlow)"/>
+
+  <g filter="url(#neon)">
+    <rect x="0" y="176" width="1200" height="3" fill="url(#bottomEdge)"/>
+    <rect x="0" y="0" width="3" height="180" fill="url(#leftEdge)"/>
+  </g>
+
   <g font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif">
     <text x="56" y="86" font-size="42" font-weight="200" letter-spacing="10" fill="#e6edf3">EUNGCHAN KANG</text>
     <text x="60" y="122" font-size="15" font-weight="400" letter-spacing="4" fill="#3b82f6">SOFTWARE ARCHITECT</text>
