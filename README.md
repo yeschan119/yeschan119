@@ -1,7 +1,5 @@
 ![Eungchan Kang — Software Architect](assets/header.svg)
 
-[한국어 🇰🇷](README.ko.md)
-
 📫 : yeschan119@gmail.com
 
 ---
