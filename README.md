@@ -1,4 +1,4 @@
-![Eungchan Kang — Software Architect](assets/banner.svg)
+![Eungchan Kang — Software Architect](assets/header.svg)
 
 [한국어 🇰🇷](README.ko.md)
 
