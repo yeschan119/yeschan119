@@ -2,8 +2,6 @@
 
 [한국어 🇰🇷](README.ko.md)
 
-📍 Korea  
-🌐 Portfolio: https://www.yeschan119.com  
 📫 Email: yeschan119@gmail.com
 
 ---
