@@ -1,6 +1,7 @@
 ![Eungchan Kang — Software Architect](assets/header.svg)
 
-📫 : yeschan119@gmail.com
+portfolio : https://yeschan119.com
+email : yeschan119@gmail.com
 
 ---
 
