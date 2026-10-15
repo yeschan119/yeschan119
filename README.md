@@ -132,7 +132,10 @@ email : yeschan119@gmail.com
       <td align="center" width="88">
         <img src="https://img.shields.io/badge/-Agents-3b82f6?style=flat-square&logoColor=white" height="40" alt="Sub-Agents" />
       </td>
-      <td colspan="2"></td>
+      <td align="center" width="88">
+        <img src="https://img.shields.io/badge/-RAG-8b5cf6?style=flat-square&logoColor=white" height="40" alt="RAG" />
+      </td>
+      <td colspan="1"></td>
   </tr>
 </table>
 ---
