@@ -135,7 +135,9 @@ email : yeschan119@gmail.com
       <td align="center" width="88">
         <img src="https://img.shields.io/badge/-RAG-8b5cf6?style=flat-square&logoColor=white" height="40" alt="RAG" />
       </td>
-      <td colspan="1"></td>
+      <td align="center" width="88">
+        <img src="https://img.shields.io/badge/-Harness-f59e0b?style=flat-square&logoColor=white" height="40" alt="Harness" />
+      </td>
   </tr>
 </table>
 ---
