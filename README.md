@@ -116,7 +116,14 @@ email : yeschan119@gmail.com
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /><br />
         <sub><b>Linux</b></sub>
       </td>
-      <td colspan="2"></td>
+      <td align="center" width="88">
+        <img src="https://img.shields.io/badge/-VM-607078?style=flat-square&logo=vmware&logoColor=white" height="40" alt="VM" /><br />
+        <sub><b>VM</b></sub>
+      </td>
+      <td align="center" width="88">
+        <img src="https://img.shields.io/badge/-On--premise-4b5563?style=flat-square&logoColor=white" height="40" alt="On-premise" /><br />
+        <sub><b>On-premise</b></sub>
+      </td>
   </tr>
   <tr>
     <td width="132" align="left"><b>Agentic Dev</b></td>
