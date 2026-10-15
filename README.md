@@ -117,7 +117,7 @@ email : yeschan119@gmail.com
         <sub><b>Linux</b></sub>
       </td>
       <td align="center" width="88">
-        <img src="https://img.shields.io/badge/-VM-607078?style=flat-square&logo=vmware&logoColor=white" height="40" alt="VM" /><br />
+        <img src="https://cdn.simpleicons.org/vmware/607078" width="40" height="40" alt="VM" /><br />
         <sub><b>VM</b></sub>
       </td>
       <td align="center" width="88">
